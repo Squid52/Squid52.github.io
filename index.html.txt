@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Der Titel des Dokuments</title>
+  </head>
+  <body>
+    <video width="1920" height="1080" controls>
+      <source src="\\MORDOR\Picamera Bilder Klavierprojekt" type=video/avi>
+    </video>
+    <p>Lorem Ipsum ist ein reiner Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist der Standard-Dummy-Text der Branche seit den 1500er Jahren, als ein unbekannter Drucker eine Kombüse vom Typ nahm und sie zu einem Musterbuch verarbeitete. Sie hat nicht nur fünf Jahrhunderte überlebt, sondern auch den Sprung in den elektronischen Satz, der im Wesentlichen unverändert geblieben ist.</p>
+  </body>
+</html>
